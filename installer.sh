@@ -204,6 +204,9 @@ copy "$CURRENT_PATH/clone/$UI_DIR/Help" "$CURRENT_PATH/bin/Help"
 #copy ui icons dir
 copy "$CURRENT_PATH/clone/$UI_DIR/icons" "$CURRENT_PATH/bin/icons"
 
+#copy generator icons
+copy "$CURRENT_PATH/clone/$GENERATOR_DIR/icons" "$CURRENT_PATH/bin/icons"
+
 #download config files
 if [ ! -f "$CONFIG_FILE_NAME" ]; then
 	echo "download compiler dependencies:"
