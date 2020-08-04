@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #Author Aziz Mousa
-#Copyright (c) zezomousa101
+#Copyright (c) azizmousa
 
 
 COMPILER_DIR="compiler"
@@ -157,10 +157,10 @@ cd clone
 echo "start cloning process:"
 
 #clone compiler part
-cloneRepo https://github.com/zezomousa101/compiler.git $COMPILER_DIR
+cloneRepo https://github.com/azizmousa/compiler.git $COMPILER_DIR
 
 #clone equalizer part
-cloneRepo https://github.com/zezomousa101/equalizer.git $EQUALIZER_DIR
+cloneRepo https://github.com/azizmousa/equalizer.git $EQUALIZER_DIR
 
 #clone generator part
 cloneRepo https://github.com/hatematef07/SketchBuilderCodeGenerator.git $GENERATOR_DIR
@@ -169,7 +169,7 @@ cloneRepo https://github.com/hatematef07/SketchBuilderCodeGenerator.git $GENERAT
 cloneRepo https://github.com/Alaa-Yasser/Sketch-Builder-UI.git $UI_DIR
 
 #clone server part
-cloneRepo https://github.com/zezomousa101/Sketch_builder_server.git $SERVER_DIR
+cloneRepo https://github.com/azizmousa/Sketch_builder_server.git $SERVER_DIR
 
 echo "cloning is done."
 echo "start building process:"
