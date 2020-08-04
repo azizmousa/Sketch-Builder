@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 - open your terminal and write the following commands
 
 ```
-$ git clone https://github.com/zezomousa101/Sketch-Builder.git
+$ git clone https://github.com/azizmousa/Sketch-Builder.git
 $ cd Sketch-Builder
 $ ./installer.sh
 ```
@@ -49,11 +49,11 @@ $ ./runner
 
 ### Project Parts:
 
-- [Compiler] (https://github.com/zezomousa101/compiler)
-- [Equalizer] (https://github.com/zezomousa101/equalizer)
+- [Compiler] (https://github.com/azizmousa/compiler)
+- [Equalizer] (https://github.com/azizmousa/equalizer)
 - [Generator] (https://github.com/hatematef07/SketchBuilderCodeGenerator)
 - [UI] (https://github.com/Alaa-Yasser/Sketch-Builder-UI)
-- [Server] (https://github.com/zezomousa101/Sketch_builder_server)
+- [Server] (https://github.com/azizmousa/Sketch_builder_server)
 
 
 - [the objects that involved to this project] (https://drive.google.com/open?id=1b-340IdraxEP1fVrbMghkT0Jri7GZ9Vy)
